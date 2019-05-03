@@ -1,0 +1,79 @@
+body {
+  background-color: pink;
+}
+
+/* h1 {
+  background-color: #E5E0DD;
+  font-family: 'Unica One', cursive; */
+  /* font-family: 'Press Start 2P', cursive;
+  font-family: 'Rock Salt', cursive;
+  font-family: 'Charmonman', cursive;
+  font-family: 'Zilla Slab Highlight', cursive; */
+  /* font-size: 100px;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+
+} */
+
+.aboutme {
+  background-color: #C2A891;
+  font-family: 'Unica One', cursive;
+  /* font-family: 'Press Start 2P', cursive;
+  font-family: 'Rock Salt', cursive;
+  font-family: 'Charmonman', cursive;
+  font-family: 'Zilla Slab Highlight', cursive; */
+  font-size: 12px;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.skills {
+  background-color: #2A5872;
+  font-family: 'Unica One', cursive;
+  color: #fff;
+  /* font-family: 'Press Start 2P', cursive;
+  font-family: 'Rock Salt', cursive;
+  font-family: 'Charmonman', cursive;
+  font-family: 'Zilla Slab Highlight', cursive; */
+  font-size: 12px;
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.jkhun {
+  width: 200px;
+  height: 250px;
+  float: right;
+}
+
+.footer {
+  text-align: center;
+}
+
+.jkLandingPage-container {
+  padding-top: 15px;
+}
+
+.linkedinbutton {
+  padding-right: 10px;
+}
+
+.projectimage {
+  width: 200px;
+  height: 250px;
+  float: left;
+  padding-right: 10px;
+}
+
+p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.project1 {
+  background-color: red;
+}
