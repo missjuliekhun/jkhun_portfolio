@@ -61,6 +61,11 @@ body {
   padding-right: 10px;
 }
 
+.jhklink {
+  padding-right: 10px;
+  color: pink;
+}
+
 .projectimage {
   width: 200px;
   height: 250px;
@@ -76,4 +81,9 @@ p {
 
 .project1 {
   background-color: red;
+}
+
+.fa-linkedin-in.linkcolor {
+  color: pink;
+
 }
